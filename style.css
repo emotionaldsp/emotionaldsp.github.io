@@ -1,0 +1,42 @@
+body {
+  margin: 0;
+  font-family: sans-serif;
+  background: #111;
+  color: #eee;
+}
+.hero {
+  text-align: center;
+  padding: 4rem 1rem;
+}
+.hero h1 {
+  font-size: 3rem;
+  margin: 0;
+  color: #0ff;
+}
+.tagline {
+  font-size: 1.25rem;
+  margin: 0.5rem 0;
+}
+.subtag {
+  margin-bottom: 2rem;
+  color: #aaa;
+}
+.buttons .btn {
+  display: inline-block;
+  margin: 0 0.5rem;
+  padding: 0.75rem 1.5rem;
+  border: 2px solid #0ff;
+  color: #0ff;
+  text-decoration: none;
+  border-radius: 4px;
+}
+.btn-primary {
+  background: #0ff;
+  color: #111;
+}
+.assets img {
+  max-width: 45%;
+  margin: 1rem;
+  border: 2px solid #444;
+  border-radius: 4px;
+}
